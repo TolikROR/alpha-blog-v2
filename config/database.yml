@@ -55,8 +55,9 @@ test:
   
 production:
   adapter: postgresql
-  database: chore_app_production
+  encoding: utf8
+  database: blog_db
   pool: 5
+  username: pguser
+  password: postgres
   timeout: 5000
-  username: root
-  password:
