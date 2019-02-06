@@ -58,3 +58,5 @@ production:
   database: chore_app_production
   pool: 5
   timeout: 5000
+  username: root
+  password:
