@@ -10,6 +10,9 @@ gem 'coffee-rails'
 gem 'pg', '~> 0.11'
 gem 'bcrypt', '~> 3.1.7'
 
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
+
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
