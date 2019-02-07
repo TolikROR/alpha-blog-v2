@@ -8,6 +8,7 @@ gem 'sassc-rails', '>= 2.0.0'
 gem 'uglifier'
 gem 'coffee-rails'
 gem 'pg', '~> 0.11'
+gem 'bcrypt', '~> 3.1.7'
 
 gem 'jquery-rails'
 gem 'turbolinks'
