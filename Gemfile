@@ -13,6 +13,8 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 
+gem 'rails-controller-testing'
+
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
